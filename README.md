@@ -1,16 +1,15 @@
-# building_layouts
+# building layouts
 
-A new Flutter project.
+Flutter project.
 
-## Getting Started
+## Introduction
 
-This project is a starting point for a Flutter application.
+Projeto da documentação do flutter refeito.
 
-A few resources to get you started if this is your first Flutter project:
+**Available for both iOS and Android.**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/6609513/245489151-5d27d46e-57ad-4951-ac69-a5f817cdf4b3.jpg" width="350">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</p>
+
