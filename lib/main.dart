@@ -28,12 +28,10 @@ class CustomWidget extends StatelessWidget {
             padding: const EdgeInsets.all(16.0),
             child: Column(
               children: <Widget>[
-                Container(
-                  child: Column(
-                    children: <Widget>[
-                      Image.asset('images/lake.jpg', height: 300),
-                    ],
-                  ),
+                Column(
+                  children: <Widget>[
+                    Image.asset('images/lake.jpg', height: 300),
+                  ],
                 ),
                 const SizedBox(height: 10),
                 Column(
